@@ -16,7 +16,7 @@ the demo level that's played at the title screen (usually inaccessible to the pl
 memcpy while preserving the skip for Play mode. This was deemed an effective fix in further testing.
 
 ### Directions
-You need a fully modded 3ds to run this patch: https://3ds.hacks.guide. Next, copy the luma folder in the release archive over to the root of the sd card, and allow the folders to merge.
+You need a fully modded 3ds to run this patch: https://3ds.hacks.guide. Next, copy the luma folder in the release archive over to the root of the sd card, and allow the folders to merge.<br>
 sdmc:/luma/titles/00040000001d9300/code.ips - will be the resulting filepath.<br>
 On the 3ds, hold select while the system boots and check "Enable game patching", then start the game as usual. The problem levels should start without issue now.<br>
 <br>
